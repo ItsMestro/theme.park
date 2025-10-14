@@ -1,6 +1,6 @@
 @media (min-width: 752px) {
     [class*="PageHeader-logo-"] {
-        content: url("/css/addons/readarr/readarr-text-logo/readarr-text-logo.png");
+        content: url("/theme.park/css/addons/readarr/readarr-text-logo/readarr-text-logo.png");
         margin-left: 15px;
         width: auto;
         height: 40px;
@@ -8,7 +8,7 @@
 }
 
 [class*="LoadingPage-logoFull-"] {
-    content: url("/css/addons/readarr/readarr-text-logo/readarr-text-logo.png");
+    content: url("/theme.park/css/addons/readarr/readarr-text-logo/readarr-text-logo.png");
     margin-top: 50px;
     margin-right: auto;
     margin-left: auto;
@@ -18,7 +18,7 @@
 }
 
 .panel-header > img.logo {
-    content: url("/css/addons/readarr/readarr-text-logo/readarr-text-logo.png");
+    content: url("/theme.park/css/addons/readarr/readarr-text-logo/readarr-text-logo.png");
     width: auto;
 }
 
