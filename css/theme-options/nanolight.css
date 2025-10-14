@@ -1,16 +1,16 @@
 :root {
-  --main-bg-color: linear-gradient(45deg, #02090d 0%, #071c26 100%) center center/cover no-repeat fixed;
+  --main-bg-color: linear-gradient(45deg, #02090d 0%, #071c26 100%);
 
-  --modal-bg-color: linear-gradient(0deg, #02090d 0%, #071c26 100%) center center/cover no-repeat fixed;
+  --modal-bg-color: linear-gradient(0deg, #02090d 0%, #071c26 100%);
   --modal-header-color: #071c26;
   --modal-footer-color: #05131a;
   
-  --drop-down-menu-bg: #05131a;
+  --drop-down-menu-bg: #0f384d;
 
-  --button-color: #00d9d9;
-  --button-color-hover: #fff;
-  --button-text: #000;
-  --button-text-hover: #000;
+  --button-color: #16c5c5;
+  --button-color-hover: #00d9d9;
+  --button-text: #eee;
+  --button-text-hover: #FFF;
   
   --accent-color:  243, 0, 243;
   --accent-color-hover: #00d9d9;
@@ -23,9 +23,9 @@
   --text-muted: #808080;
 
   /*Specials*/
-  --arr-queue-color: #FF0000; /* Servarr apps + Bazarr*/
+  --arr-queue-color: #f300f3; /* Servarr apps + Bazarr*/
   --plex-poster-unwatched: #FF0000;
   --petio-spinner: invert(78%) sepia(17%) saturate(4447%) hue-rotate(290deg) brightness(109%) contrast(95%); /* Made with https://codepen.io/jsm91/embed/ZEEawyZ */ 
   --gitea-color-primary-dark-4: 255,0,255;
-  --overseerr-gradient: linear-gradient(-90deg, #FF0000 0%, #0000FF 100%) center center/cover no-repeat fixed;
+  --overseerr-gradient: linear-gradient(rgba(7, 28, 38, 0.2) 0%, rgb(7, 28, 38) 100%);
 }
