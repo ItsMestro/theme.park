@@ -764,7 +764,7 @@
     },
     "uptime-kuma": {
       "addons": {},
-      "base_css": "https://itsmestro.github.io/css/base/uptime-kuma/uptime-kuma-base.css?sha=8a10e14550a2bb7a2f595575ac884bf4"
+      "base_css": "https://itsmestro.github.io/css/base/uptime-kuma/uptime-kuma-base.css?sha=8c6255a2e9ad55bd092dafd8d3690fa2"
     },
     "vuetorrent": {
       "addons": {},
