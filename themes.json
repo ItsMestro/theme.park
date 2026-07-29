@@ -29,9 +29,9 @@
     "organizr": {
       "glass": {
         "css": [
-          "https://itsmestro.github.io/css/addons/organizr/glass/glass-login.css?sha=43f3ae9656a7c727355116dad0988e1a",
           "https://itsmestro.github.io/css/addons/organizr/glass/organizr-base-old.css?sha=7ca2b0e71ab22a2e00ed59acb3415c4e",
-          "https://itsmestro.github.io/css/addons/organizr/glass/glass-base.css?sha=f3d7eff1bfcc09b167c274a810d3b297"
+          "https://itsmestro.github.io/css/addons/organizr/glass/glass-base.css?sha=f3d7eff1bfcc09b167c274a810d3b297",
+          "https://itsmestro.github.io/css/addons/organizr/glass/glass-login.css?sha=43f3ae9656a7c727355116dad0988e1a"
         ]
       }
     },
@@ -46,40 +46,40 @@
     "radarr": {
       "radarr-4k-favicon": {
         "files": [
-          "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/android-chrome-192x192.png?sha=56faa5e150f979cb9bfddcdb4640ba8a",
-          "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/mstile-310x310.png?sha=2a4fc25dda9f8c9f83ddad39b22b5f5b",
-          "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/mstile-310x150.png?sha=987baf2fd094bec4696b9d42efe94d6d",
-          "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/mstile-144x144.png?sha=0348b0e73f2d6ebf70c026cebea076ac",
-          "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/mstile-70x70.png?sha=d9250ae35d766dff3d9a46ba08520969",
+          "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/favicon-16x16.png?sha=abbe5520d486765a2180f4af97aabdad",
+          "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/mstile-150x150.png?sha=1d42c2ad3a76c623a068ad382a390fe0",
+          "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/favicon-32x32.png?sha=2647702a80e346700e4eacbb7818c574",
           "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/favicon.ico?sha=b97ef3b9875810468977652f32c8df72",
           "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/android-chrome-512x512.png?sha=02dd5749778235b1cdea95a170f7a5ad",
-          "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/mstile-150x150.png?sha=1d42c2ad3a76c623a068ad382a390fe0",
+          "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/android-chrome-192x192.png?sha=56faa5e150f979cb9bfddcdb4640ba8a",
+          "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/mstile-70x70.png?sha=d9250ae35d766dff3d9a46ba08520969",
+          "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/mstile-310x150.png?sha=987baf2fd094bec4696b9d42efe94d6d",
+          "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/mstile-310x310.png?sha=2a4fc25dda9f8c9f83ddad39b22b5f5b",
           "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/browserconfig.xml?sha=877c532bc5e11b01391e51b4fd9240e8",
-          "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/safari-pinned-tab.svg?sha=fb3a2d4362a466a282c73f7318812d50",
-          "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/favicon-16x16.png?sha=abbe5520d486765a2180f4af97aabdad",
           "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/apple-touch-icon.png?sha=5daf22ce335010ea7f4b515d34608fbe",
-          "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/favicon-32x32.png?sha=2647702a80e346700e4eacbb7818c574",
-          "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9"
+          "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/safari-pinned-tab.svg?sha=fb3a2d4362a466a282c73f7318812d50",
+          "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9",
+          "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/mstile-144x144.png?sha=0348b0e73f2d6ebf70c026cebea076ac"
         ]
       },
       "radarr-4k-logo": "https://itsmestro.github.io/css/addons/radarr/radarr-4k-logo/radarr-4k-logo.css?sha=5e65a1909e5b7407a4a959bd728591db",
       "radarr-alt-calendar": "https://itsmestro.github.io/css/addons/radarr/radarr-alt-calendar/radarr-alt-calendar.css?sha=1e84b48a6bf4d24c236392e15bb167be",
       "radarr-anime-favicon": {
         "files": [
-          "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/android-chrome-192x192.png?sha=8125062f86994ced07cc5f7085679b86",
-          "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/mstile-310x310.png?sha=761cd134ecf3a14ded757317ebf70cf9",
-          "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/mstile-310x150.png?sha=66d0913b95f2944c5bce4822bedbab9a",
-          "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/mstile-144x144.png?sha=81b8db00e225e45ee35a91d0e409d62a",
-          "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/mstile-70x70.png?sha=56c51bf94407f397f350e8fd3c4979f4",
+          "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/favicon-16x16.png?sha=a1acaa77c80ac2b38e2900bcc94fe037",
+          "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/mstile-150x150.png?sha=7b2975de51daf269a56fd707690fabb2",
+          "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/favicon-32x32.png?sha=a5f7e554fde4da9eb21e053b0912bf5f",
           "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/favicon.ico?sha=b7a60803ee5cb87387959f780bbf22ae",
           "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/android-chrome-512x512.png?sha=1720d5fcae3d928606c5f17c61604432",
-          "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/mstile-150x150.png?sha=7b2975de51daf269a56fd707690fabb2",
+          "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/android-chrome-192x192.png?sha=8125062f86994ced07cc5f7085679b86",
+          "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/mstile-70x70.png?sha=56c51bf94407f397f350e8fd3c4979f4",
+          "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/mstile-310x150.png?sha=66d0913b95f2944c5bce4822bedbab9a",
+          "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/mstile-310x310.png?sha=761cd134ecf3a14ded757317ebf70cf9",
           "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/browserconfig.xml?sha=877c532bc5e11b01391e51b4fd9240e8",
-          "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/safari-pinned-tab.svg?sha=2435be0885fa16202744cd3a27b8db7a",
-          "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/favicon-16x16.png?sha=a1acaa77c80ac2b38e2900bcc94fe037",
           "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/apple-touch-icon.png?sha=022ba774b52cac9c011759a7e825c3d9",
-          "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/favicon-32x32.png?sha=a5f7e554fde4da9eb21e053b0912bf5f",
-          "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9"
+          "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/safari-pinned-tab.svg?sha=2435be0885fa16202744cd3a27b8db7a",
+          "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9",
+          "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/mstile-144x144.png?sha=81b8db00e225e45ee35a91d0e409d62a"
         ]
       },
       "radarr-anime-logo": "https://itsmestro.github.io/css/addons/radarr/radarr-anime-logo/radarr-anime-logo.css?sha=ea3b95c92099243fa3b949169159b33b",
@@ -89,20 +89,20 @@
       "readarr-alt-calendar": "https://itsmestro.github.io/css/addons/readarr/readarr-alt-calendar/readarr-alt-calendar.css?sha=73c0809f9a113737111a64e419c7452b",
       "readarr-alt-favicon": {
         "files": [
-          "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/android-chrome-192x192.png?sha=11d66e4bbe7c6da125ddc5dd63307ebf",
-          "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/mstile-310x310.png?sha=4c492637d72a2c92e8da23b761faba9e",
-          "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/mstile-310x150.png?sha=a1b8d78963b7112f880a4d66268a7a04",
-          "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/mstile-144x144.png?sha=d048f794ba26069b4344cecbe9cda923",
-          "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/mstile-70x70.png?sha=84b0fb0a6628be72227ad1d0a5af577c",
+          "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/favicon-16x16.png?sha=2d4c0bac57194db1960a2564743dedf7",
+          "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/mstile-150x150.png?sha=ac7e3f31e80d577ed89b0d12da8d0c44",
+          "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/favicon-32x32.png?sha=0764360d4d54c5e7020100d399792ce5",
           "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/favicon.ico?sha=9a03066d0acc4a31786e8b65d882e71e",
           "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/android-chrome-512x512.png?sha=0c6bbfb86b1fb1a5a8f8a4693e99b409",
-          "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/mstile-150x150.png?sha=ac7e3f31e80d577ed89b0d12da8d0c44",
+          "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/android-chrome-192x192.png?sha=11d66e4bbe7c6da125ddc5dd63307ebf",
+          "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/mstile-70x70.png?sha=84b0fb0a6628be72227ad1d0a5af577c",
+          "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/mstile-310x150.png?sha=a1b8d78963b7112f880a4d66268a7a04",
+          "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/mstile-310x310.png?sha=4c492637d72a2c92e8da23b761faba9e",
           "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/browserconfig.xml?sha=877c532bc5e11b01391e51b4fd9240e8",
-          "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/safari-pinned-tab.svg?sha=fb5c4dc56fe02aa5c4c8438b78be9402",
-          "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/favicon-16x16.png?sha=2d4c0bac57194db1960a2564743dedf7",
           "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/apple-touch-icon.png?sha=86cc86825d359ddf50d65d4373ddbca0",
-          "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/favicon-32x32.png?sha=0764360d4d54c5e7020100d399792ce5",
-          "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9"
+          "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/safari-pinned-tab.svg?sha=fb5c4dc56fe02aa5c4c8438b78be9402",
+          "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9",
+          "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/mstile-144x144.png?sha=d048f794ba26069b4344cecbe9cda923"
         ]
       },
       "readarr-alt-logo": "https://itsmestro.github.io/css/addons/readarr/readarr-alt-logo/readarr-alt-logo.css?sha=e32bc487683eb229740cb9b2dfc20a57",
@@ -112,60 +112,60 @@
     "sonarr": {
       "sonarr-4k-favicon": {
         "files": [
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/android-chrome-192x192.png?sha=0cf23797ffd6311d560513c913c39dc0",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/mstile-310x310.png?sha=b96e53bf93405aa812e9a67bf79af1c8",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/mstile-310x150.png?sha=1a6b8fc2f40c87231c64e904ba8bb699",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/mstile-144x144.png?sha=c2431daf7d8a0edac270a65649d5ce2b",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/mstile-70x70.png?sha=a48f902fcfca59457fca571882891d4e",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/favicon-16x16.png?sha=1f2dc622d0b024c32c6d74caa2e2f962",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/mstile-150x150.png?sha=923292f837d10590e26b0671fec60c75",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/favicon-32x32.png?sha=a6b31ff58b7d1dcc42dfae24dde6a1f7",
           "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/favicon.ico?sha=d986d85829057bce3dd905c6c676ea21",
           "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/android-chrome-512x512.png?sha=8495302021f726f0f6b541ac9b8c7ee2",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/mstile-150x150.png?sha=923292f837d10590e26b0671fec60c75",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/android-chrome-192x192.png?sha=0cf23797ffd6311d560513c913c39dc0",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/mstile-70x70.png?sha=a48f902fcfca59457fca571882891d4e",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/mstile-310x150.png?sha=1a6b8fc2f40c87231c64e904ba8bb699",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/mstile-310x310.png?sha=b96e53bf93405aa812e9a67bf79af1c8",
           "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/browserconfig.xml?sha=877c532bc5e11b01391e51b4fd9240e8",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/safari-pinned-tab.svg?sha=8c2733c8d3c15cb42b874960caa4e12f",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/favicon-16x16.png?sha=1f2dc622d0b024c32c6d74caa2e2f962",
           "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/apple-touch-icon.png?sha=e1b31dc827c7c4dd43d9506f7366fce3",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/favicon-32x32.png?sha=a6b31ff58b7d1dcc42dfae24dde6a1f7",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9"
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/safari-pinned-tab.svg?sha=8c2733c8d3c15cb42b874960caa4e12f",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/mstile-144x144.png?sha=c2431daf7d8a0edac270a65649d5ce2b"
         ]
       },
       "sonarr-4k-logo": "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-logo/sonarr-4k-logo.css?sha=daf30f5a16ecb54ce481f144ab055265",
       "sonarr-4k-text-logo": "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-text-logo/sonarr-4k-text-logo.css?sha=6b993e74907abd86607f81190ce04f09",
       "sonarr-anime-blue-favicon": {
         "files": [
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/android-chrome-192x192.png?sha=f9b005606f2fe83a997079538b4b2372",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/mstile-310x310.png?sha=15224e7eb185c1e8b5d44495b659b880",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/mstile-310x150.png?sha=ba7efbc97526cf39948533d655297db2",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/mstile-144x144.png?sha=eca17409f4617d5b25d3a046cfbafb1c",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/mstile-70x70.png?sha=93eedf302661fd8f281e4a38b60cbce7",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/favicon-16x16.png?sha=e13930e1359aa9fbc7e4a24fb68b1c0d",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/mstile-150x150.png?sha=1bcabeb653e8b02da39ebafc4c701a66",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/favicon-32x32.png?sha=0753a10fff777350679b320dbf46ad66",
           "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/favicon.ico?sha=26c100dbeadec2114eef5e2ccdaf7c08",
           "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/android-chrome-512x512.png?sha=76f0cd525ababc83824a0c291676de0b",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/mstile-150x150.png?sha=1bcabeb653e8b02da39ebafc4c701a66",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/android-chrome-192x192.png?sha=f9b005606f2fe83a997079538b4b2372",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/mstile-70x70.png?sha=93eedf302661fd8f281e4a38b60cbce7",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/mstile-310x150.png?sha=ba7efbc97526cf39948533d655297db2",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/mstile-310x310.png?sha=15224e7eb185c1e8b5d44495b659b880",
           "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/browserconfig.xml?sha=877c532bc5e11b01391e51b4fd9240e8",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/safari-pinned-tab.svg?sha=b95c74a70df6ad6729d5990b418c16f1",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/favicon-16x16.png?sha=e13930e1359aa9fbc7e4a24fb68b1c0d",
           "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/apple-touch-icon.png?sha=003b6175e94b39b3f56abbd10c025e4c",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/favicon-32x32.png?sha=0753a10fff777350679b320dbf46ad66",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9"
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/safari-pinned-tab.svg?sha=b95c74a70df6ad6729d5990b418c16f1",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/mstile-144x144.png?sha=eca17409f4617d5b25d3a046cfbafb1c"
         ]
       },
       "sonarr-anime-blue-logo": "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-logo/sonarr-anime-blue-logo.css?sha=0bd219722153c4461b62e71d72989b34",
       "sonarr-anime-blue-text-logo": "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-text-logo/sonarr-anime-blue-text-logo.css?sha=ebefa2b996a09a8291beab745cd98a7b",
       "sonarr-anime-favicon": {
         "files": [
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/android-chrome-192x192.png?sha=4b8cd42018cf12fb353b646c57b35840",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/mstile-310x310.png?sha=3036e09b0b3db8c7a8ba9464e2243640",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/mstile-310x150.png?sha=84bf3e9af766087148136e62beec8a40",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/mstile-144x144.png?sha=dfe3a6a40a6cabdcbc02a622d62ed537",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/mstile-70x70.png?sha=e41bcd7b9221bb38dfa57d03f213c339",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/favicon-16x16.png?sha=602c6d8749048df0fa90e66aaf382dd8",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/mstile-150x150.png?sha=5432d1017ec16e4ebfd2287fca3929a7",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/favicon-32x32.png?sha=3f9fa58b43676d2ea07c9bbe6d67ed65",
           "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/favicon.ico?sha=fdf24af80330b5183d19220c21d9f3fe",
           "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/android-chrome-512x512.png?sha=beb288bc11ba955820abbd4911638401",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/mstile-150x150.png?sha=5432d1017ec16e4ebfd2287fca3929a7",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/android-chrome-192x192.png?sha=4b8cd42018cf12fb353b646c57b35840",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/mstile-70x70.png?sha=e41bcd7b9221bb38dfa57d03f213c339",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/mstile-310x150.png?sha=84bf3e9af766087148136e62beec8a40",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/mstile-310x310.png?sha=3036e09b0b3db8c7a8ba9464e2243640",
           "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/browserconfig.xml?sha=877c532bc5e11b01391e51b4fd9240e8",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/safari-pinned-tab.svg?sha=869c600d2478e70cecd1dc015aa41601",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/favicon-16x16.png?sha=602c6d8749048df0fa90e66aaf382dd8",
           "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/apple-touch-icon.png?sha=eba789cd7705d91c2cf402e576d2cf6c",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/favicon-32x32.png?sha=3f9fa58b43676d2ea07c9bbe6d67ed65",
-          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9"
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/safari-pinned-tab.svg?sha=869c600d2478e70cecd1dc015aa41601",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9",
+          "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/mstile-144x144.png?sha=dfe3a6a40a6cabdcbc02a622d62ed537"
         ]
       },
       "sonarr-anime-logo": "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-logo/sonarr-anime-logo.css?sha=ff446d6d811ed1cdfbf38b87e455b0ed",
@@ -177,28 +177,28 @@
       "login-page": {
         "alien": {
           "css": [
-            "https://itsmestro.github.io/css/addons/unraid/login-page/alien/hallway.css?sha=b5c502f273bbe716a040414c18d8c56b",
-            "https://itsmestro.github.io/css/addons/unraid/login-page/alien/isolation.css?sha=ce599a2668f2ed261038dad7da26f7c3",
-            "https://itsmestro.github.io/css/addons/unraid/login-page/alien/hallway2.css?sha=8e1672eca7f55f10a02eef8218fc6b41",
             "https://itsmestro.github.io/css/addons/unraid/login-page/alien/nightmare.css?sha=d07d969be6f9da5df26d61890386795a",
+            "https://itsmestro.github.io/css/addons/unraid/login-page/alien/custom.css?sha=69998c52f142dba728f66c910b897522",
             "https://itsmestro.github.io/css/addons/unraid/login-page/alien/hallway4.css?sha=cb739f9daa732b08c79c1acce848bbe2",
-            "https://itsmestro.github.io/css/addons/unraid/login-page/alien/isolation_video.css?sha=c9ed6dc1f42a2895157b8e47f147182c",
-            "https://itsmestro.github.io/css/addons/unraid/login-page/alien/scanner.css?sha=e20b2fe2c350ff087937ef0bbd6756a3",
             "https://itsmestro.github.io/css/addons/unraid/login-page/alien/alien-base.css?sha=fc4a6738a5170c4f73f136f276d6ac17",
+            "https://itsmestro.github.io/css/addons/unraid/login-page/alien/isolation_video.css?sha=c9ed6dc1f42a2895157b8e47f147182c",
             "https://itsmestro.github.io/css/addons/unraid/login-page/alien/hallway3.css?sha=60408ab51eca79c0939a3a7898c5d41d",
-            "https://itsmestro.github.io/css/addons/unraid/login-page/alien/custom.css?sha=69998c52f142dba728f66c910b897522"
+            "https://itsmestro.github.io/css/addons/unraid/login-page/alien/isolation.css?sha=ce599a2668f2ed261038dad7da26f7c3",
+            "https://itsmestro.github.io/css/addons/unraid/login-page/alien/hallway.css?sha=b5c502f273bbe716a040414c18d8c56b",
+            "https://itsmestro.github.io/css/addons/unraid/login-page/alien/scanner.css?sha=e20b2fe2c350ff087937ef0bbd6756a3",
+            "https://itsmestro.github.io/css/addons/unraid/login-page/alien/hallway2.css?sha=8e1672eca7f55f10a02eef8218fc6b41"
           ],
           "files": []
         },
         "fallout": {
           "css": [
-            "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/fallout-base.css?sha=21426c9f0f57186e5abab7e51d07919c",
-            "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/terminal.css?sha=6d35e5fda2ffe59ffac6b94c88156474",
-            "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/dirty_terminal2.css?sha=ce97e75d8b0f3a65ab95cefd56ff94af",
+            "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/custom.css?sha=861291eb0b3ae0a7d2caa7a0d1a49719",
             "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/terminal2.css?sha=bf8ea1808fde56272de7f8377745a920",
-            "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/dirty_terminal.css?sha=d4448bf4189e72594690ba4c8239e5c5",
+            "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/terminal.css?sha=6d35e5fda2ffe59ffac6b94c88156474",
+            "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/fallout-base.css?sha=21426c9f0f57186e5abab7e51d07919c",
+            "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/dirty_terminal2.css?sha=ce97e75d8b0f3a65ab95cefd56ff94af",
             "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/fallout_video.css?sha=aff8e8826946298a6961dee8a8fbfaae",
-            "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/custom.css?sha=861291eb0b3ae0a7d2caa7a0d1a49719"
+            "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/dirty_terminal.css?sha=d4448bf4189e72594690ba4c8239e5c5"
           ],
           "files": []
         },
@@ -207,13 +207,13 @@
         ],
         "retro-terminal": {
           "css": [
-            "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/red.css?sha=b2ea498ff13040bc4594ddeb1ef3e445",
-            "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/amber.css?sha=051bbc07b5b26db06074d87a25fe8ddf",
             "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/blue.css?sha=395aed61d19745e19d9f9d1e602e08e8",
-            "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/white.css?sha=d735c2c32bdc72ff306fe83dd20c6375",
-            "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=6280d1ac659ed9285be1af4029922bdf",
             "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/custom.css?sha=5b8031420e620a084427a82a44687240",
-            "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/green.css?sha=02b52541ad43826cbae2de3bf15c6b0c"
+            "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/white.css?sha=d735c2c32bdc72ff306fe83dd20c6375",
+            "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/amber.css?sha=051bbc07b5b26db06074d87a25fe8ddf",
+            "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/green.css?sha=02b52541ad43826cbae2de3bf15c6b0c",
+            "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/red.css?sha=b2ea498ff13040bc4594ddeb1ef3e445",
+            "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=6280d1ac659ed9285be1af4029922bdf"
           ],
           "files": []
         }
@@ -498,15 +498,15 @@
     },
     "ombi": {
       "addons": {},
-      "base_css": "https://itsmestro.github.io/css/base/ombi/ombi-base.css?sha=8d526c524fd3e15b99def54572d2d99a"
+      "base_css": "https://itsmestro.github.io/css/base/ombi/ombi-base.css?sha=cebef430bb198fb704b5f6b9d11db076"
     },
     "organizr": {
       "addons": {
         "glass": {
           "css": [
-            "https://itsmestro.github.io/css/addons/organizr/glass/glass-login.css?sha=43f3ae9656a7c727355116dad0988e1a",
             "https://itsmestro.github.io/css/addons/organizr/glass/organizr-base-old.css?sha=7ca2b0e71ab22a2e00ed59acb3415c4e",
-            "https://itsmestro.github.io/css/addons/organizr/glass/glass-base.css?sha=f3d7eff1bfcc09b167c274a810d3b297"
+            "https://itsmestro.github.io/css/addons/organizr/glass/glass-base.css?sha=f3d7eff1bfcc09b167c274a810d3b297",
+            "https://itsmestro.github.io/css/addons/organizr/glass/glass-login.css?sha=43f3ae9656a7c727355116dad0988e1a"
           ]
         }
       },
@@ -514,7 +514,7 @@
     },
     "overseerr": {
       "addons": {},
-      "base_css": "https://itsmestro.github.io/css/base/overseerr/overseerr-base.css?sha=b28f5099adff6ad4df75767aaddd79ab"
+      "base_css": "https://itsmestro.github.io/css/base/overseerr/overseerr-base.css?sha=27f3b1914540c88c6542a55b000ca07c"
     },
     "petio": {
       "addons": {},
@@ -550,40 +550,40 @@
       "addons": {
         "radarr-4k-favicon": {
           "files": [
-            "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/android-chrome-192x192.png?sha=56faa5e150f979cb9bfddcdb4640ba8a",
-            "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/mstile-310x310.png?sha=2a4fc25dda9f8c9f83ddad39b22b5f5b",
-            "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/mstile-310x150.png?sha=987baf2fd094bec4696b9d42efe94d6d",
-            "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/mstile-144x144.png?sha=0348b0e73f2d6ebf70c026cebea076ac",
-            "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/mstile-70x70.png?sha=d9250ae35d766dff3d9a46ba08520969",
+            "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/favicon-16x16.png?sha=abbe5520d486765a2180f4af97aabdad",
+            "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/mstile-150x150.png?sha=1d42c2ad3a76c623a068ad382a390fe0",
+            "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/favicon-32x32.png?sha=2647702a80e346700e4eacbb7818c574",
             "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/favicon.ico?sha=b97ef3b9875810468977652f32c8df72",
             "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/android-chrome-512x512.png?sha=02dd5749778235b1cdea95a170f7a5ad",
-            "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/mstile-150x150.png?sha=1d42c2ad3a76c623a068ad382a390fe0",
+            "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/android-chrome-192x192.png?sha=56faa5e150f979cb9bfddcdb4640ba8a",
+            "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/mstile-70x70.png?sha=d9250ae35d766dff3d9a46ba08520969",
+            "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/mstile-310x150.png?sha=987baf2fd094bec4696b9d42efe94d6d",
+            "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/mstile-310x310.png?sha=2a4fc25dda9f8c9f83ddad39b22b5f5b",
             "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/browserconfig.xml?sha=877c532bc5e11b01391e51b4fd9240e8",
-            "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/safari-pinned-tab.svg?sha=fb3a2d4362a466a282c73f7318812d50",
-            "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/favicon-16x16.png?sha=abbe5520d486765a2180f4af97aabdad",
             "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/apple-touch-icon.png?sha=5daf22ce335010ea7f4b515d34608fbe",
-            "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/favicon-32x32.png?sha=2647702a80e346700e4eacbb7818c574",
-            "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9"
+            "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/safari-pinned-tab.svg?sha=fb3a2d4362a466a282c73f7318812d50",
+            "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9",
+            "https://itsmestro.github.io/css/addons/radarr/radarr-4k-favicon/mstile-144x144.png?sha=0348b0e73f2d6ebf70c026cebea076ac"
           ]
         },
         "radarr-4k-logo": "https://itsmestro.github.io/css/addons/radarr/radarr-4k-logo/radarr-4k-logo.css?sha=5e65a1909e5b7407a4a959bd728591db",
         "radarr-alt-calendar": "https://itsmestro.github.io/css/addons/radarr/radarr-alt-calendar/radarr-alt-calendar.css?sha=1e84b48a6bf4d24c236392e15bb167be",
         "radarr-anime-favicon": {
           "files": [
-            "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/android-chrome-192x192.png?sha=8125062f86994ced07cc5f7085679b86",
-            "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/mstile-310x310.png?sha=761cd134ecf3a14ded757317ebf70cf9",
-            "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/mstile-310x150.png?sha=66d0913b95f2944c5bce4822bedbab9a",
-            "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/mstile-144x144.png?sha=81b8db00e225e45ee35a91d0e409d62a",
-            "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/mstile-70x70.png?sha=56c51bf94407f397f350e8fd3c4979f4",
+            "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/favicon-16x16.png?sha=a1acaa77c80ac2b38e2900bcc94fe037",
+            "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/mstile-150x150.png?sha=7b2975de51daf269a56fd707690fabb2",
+            "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/favicon-32x32.png?sha=a5f7e554fde4da9eb21e053b0912bf5f",
             "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/favicon.ico?sha=b7a60803ee5cb87387959f780bbf22ae",
             "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/android-chrome-512x512.png?sha=1720d5fcae3d928606c5f17c61604432",
-            "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/mstile-150x150.png?sha=7b2975de51daf269a56fd707690fabb2",
+            "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/android-chrome-192x192.png?sha=8125062f86994ced07cc5f7085679b86",
+            "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/mstile-70x70.png?sha=56c51bf94407f397f350e8fd3c4979f4",
+            "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/mstile-310x150.png?sha=66d0913b95f2944c5bce4822bedbab9a",
+            "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/mstile-310x310.png?sha=761cd134ecf3a14ded757317ebf70cf9",
             "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/browserconfig.xml?sha=877c532bc5e11b01391e51b4fd9240e8",
-            "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/safari-pinned-tab.svg?sha=2435be0885fa16202744cd3a27b8db7a",
-            "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/favicon-16x16.png?sha=a1acaa77c80ac2b38e2900bcc94fe037",
             "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/apple-touch-icon.png?sha=022ba774b52cac9c011759a7e825c3d9",
-            "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/favicon-32x32.png?sha=a5f7e554fde4da9eb21e053b0912bf5f",
-            "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9"
+            "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/safari-pinned-tab.svg?sha=2435be0885fa16202744cd3a27b8db7a",
+            "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9",
+            "https://itsmestro.github.io/css/addons/radarr/radarr-anime-favicon/mstile-144x144.png?sha=81b8db00e225e45ee35a91d0e409d62a"
           ]
         },
         "radarr-anime-logo": "https://itsmestro.github.io/css/addons/radarr/radarr-anime-logo/radarr-anime-logo.css?sha=ea3b95c92099243fa3b949169159b33b",
@@ -596,20 +596,20 @@
         "readarr-alt-calendar": "https://itsmestro.github.io/css/addons/readarr/readarr-alt-calendar/readarr-alt-calendar.css?sha=73c0809f9a113737111a64e419c7452b",
         "readarr-alt-favicon": {
           "files": [
-            "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/android-chrome-192x192.png?sha=11d66e4bbe7c6da125ddc5dd63307ebf",
-            "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/mstile-310x310.png?sha=4c492637d72a2c92e8da23b761faba9e",
-            "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/mstile-310x150.png?sha=a1b8d78963b7112f880a4d66268a7a04",
-            "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/mstile-144x144.png?sha=d048f794ba26069b4344cecbe9cda923",
-            "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/mstile-70x70.png?sha=84b0fb0a6628be72227ad1d0a5af577c",
+            "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/favicon-16x16.png?sha=2d4c0bac57194db1960a2564743dedf7",
+            "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/mstile-150x150.png?sha=ac7e3f31e80d577ed89b0d12da8d0c44",
+            "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/favicon-32x32.png?sha=0764360d4d54c5e7020100d399792ce5",
             "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/favicon.ico?sha=9a03066d0acc4a31786e8b65d882e71e",
             "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/android-chrome-512x512.png?sha=0c6bbfb86b1fb1a5a8f8a4693e99b409",
-            "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/mstile-150x150.png?sha=ac7e3f31e80d577ed89b0d12da8d0c44",
+            "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/android-chrome-192x192.png?sha=11d66e4bbe7c6da125ddc5dd63307ebf",
+            "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/mstile-70x70.png?sha=84b0fb0a6628be72227ad1d0a5af577c",
+            "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/mstile-310x150.png?sha=a1b8d78963b7112f880a4d66268a7a04",
+            "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/mstile-310x310.png?sha=4c492637d72a2c92e8da23b761faba9e",
             "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/browserconfig.xml?sha=877c532bc5e11b01391e51b4fd9240e8",
-            "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/safari-pinned-tab.svg?sha=fb5c4dc56fe02aa5c4c8438b78be9402",
-            "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/favicon-16x16.png?sha=2d4c0bac57194db1960a2564743dedf7",
             "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/apple-touch-icon.png?sha=86cc86825d359ddf50d65d4373ddbca0",
-            "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/favicon-32x32.png?sha=0764360d4d54c5e7020100d399792ce5",
-            "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9"
+            "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/safari-pinned-tab.svg?sha=fb5c4dc56fe02aa5c4c8438b78be9402",
+            "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9",
+            "https://itsmestro.github.io/css/addons/readarr/readarr-alt-favicon/mstile-144x144.png?sha=d048f794ba26069b4344cecbe9cda923"
           ]
         },
         "readarr-alt-logo": "https://itsmestro.github.io/css/addons/readarr/readarr-alt-logo/readarr-alt-logo.css?sha=e32bc487683eb229740cb9b2dfc20a57",
@@ -632,66 +632,66 @@
     },
     "sabnzbd": {
       "addons": {},
-      "base_css": "https://itsmestro.github.io/css/base/sabnzbd/sabnzbd-base.css?sha=ac4e880a1d010f14ef61ea0a0daf6ec4"
+      "base_css": "https://itsmestro.github.io/css/base/sabnzbd/sabnzbd-base.css?sha=4fe48a72759792553f982675ac6e559e"
     },
     "sonarr": {
       "addons": {
         "sonarr-4k-favicon": {
           "files": [
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/android-chrome-192x192.png?sha=0cf23797ffd6311d560513c913c39dc0",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/mstile-310x310.png?sha=b96e53bf93405aa812e9a67bf79af1c8",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/mstile-310x150.png?sha=1a6b8fc2f40c87231c64e904ba8bb699",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/mstile-144x144.png?sha=c2431daf7d8a0edac270a65649d5ce2b",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/mstile-70x70.png?sha=a48f902fcfca59457fca571882891d4e",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/favicon-16x16.png?sha=1f2dc622d0b024c32c6d74caa2e2f962",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/mstile-150x150.png?sha=923292f837d10590e26b0671fec60c75",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/favicon-32x32.png?sha=a6b31ff58b7d1dcc42dfae24dde6a1f7",
             "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/favicon.ico?sha=d986d85829057bce3dd905c6c676ea21",
             "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/android-chrome-512x512.png?sha=8495302021f726f0f6b541ac9b8c7ee2",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/mstile-150x150.png?sha=923292f837d10590e26b0671fec60c75",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/android-chrome-192x192.png?sha=0cf23797ffd6311d560513c913c39dc0",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/mstile-70x70.png?sha=a48f902fcfca59457fca571882891d4e",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/mstile-310x150.png?sha=1a6b8fc2f40c87231c64e904ba8bb699",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/mstile-310x310.png?sha=b96e53bf93405aa812e9a67bf79af1c8",
             "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/browserconfig.xml?sha=877c532bc5e11b01391e51b4fd9240e8",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/safari-pinned-tab.svg?sha=8c2733c8d3c15cb42b874960caa4e12f",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/favicon-16x16.png?sha=1f2dc622d0b024c32c6d74caa2e2f962",
             "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/apple-touch-icon.png?sha=e1b31dc827c7c4dd43d9506f7366fce3",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/favicon-32x32.png?sha=a6b31ff58b7d1dcc42dfae24dde6a1f7",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9"
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/safari-pinned-tab.svg?sha=8c2733c8d3c15cb42b874960caa4e12f",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-favicon/mstile-144x144.png?sha=c2431daf7d8a0edac270a65649d5ce2b"
           ]
         },
         "sonarr-4k-logo": "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-logo/sonarr-4k-logo.css?sha=daf30f5a16ecb54ce481f144ab055265",
         "sonarr-4k-text-logo": "https://itsmestro.github.io/css/addons/sonarr/sonarr-4k-text-logo/sonarr-4k-text-logo.css?sha=6b993e74907abd86607f81190ce04f09",
         "sonarr-anime-blue-favicon": {
           "files": [
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/android-chrome-192x192.png?sha=f9b005606f2fe83a997079538b4b2372",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/mstile-310x310.png?sha=15224e7eb185c1e8b5d44495b659b880",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/mstile-310x150.png?sha=ba7efbc97526cf39948533d655297db2",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/mstile-144x144.png?sha=eca17409f4617d5b25d3a046cfbafb1c",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/mstile-70x70.png?sha=93eedf302661fd8f281e4a38b60cbce7",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/favicon-16x16.png?sha=e13930e1359aa9fbc7e4a24fb68b1c0d",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/mstile-150x150.png?sha=1bcabeb653e8b02da39ebafc4c701a66",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/favicon-32x32.png?sha=0753a10fff777350679b320dbf46ad66",
             "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/favicon.ico?sha=26c100dbeadec2114eef5e2ccdaf7c08",
             "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/android-chrome-512x512.png?sha=76f0cd525ababc83824a0c291676de0b",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/mstile-150x150.png?sha=1bcabeb653e8b02da39ebafc4c701a66",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/android-chrome-192x192.png?sha=f9b005606f2fe83a997079538b4b2372",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/mstile-70x70.png?sha=93eedf302661fd8f281e4a38b60cbce7",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/mstile-310x150.png?sha=ba7efbc97526cf39948533d655297db2",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/mstile-310x310.png?sha=15224e7eb185c1e8b5d44495b659b880",
             "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/browserconfig.xml?sha=877c532bc5e11b01391e51b4fd9240e8",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/safari-pinned-tab.svg?sha=b95c74a70df6ad6729d5990b418c16f1",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/favicon-16x16.png?sha=e13930e1359aa9fbc7e4a24fb68b1c0d",
             "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/apple-touch-icon.png?sha=003b6175e94b39b3f56abbd10c025e4c",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/favicon-32x32.png?sha=0753a10fff777350679b320dbf46ad66",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9"
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/safari-pinned-tab.svg?sha=b95c74a70df6ad6729d5990b418c16f1",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-favicon/mstile-144x144.png?sha=eca17409f4617d5b25d3a046cfbafb1c"
           ]
         },
         "sonarr-anime-blue-logo": "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-logo/sonarr-anime-blue-logo.css?sha=0bd219722153c4461b62e71d72989b34",
         "sonarr-anime-blue-text-logo": "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-blue-text-logo/sonarr-anime-blue-text-logo.css?sha=ebefa2b996a09a8291beab745cd98a7b",
         "sonarr-anime-favicon": {
           "files": [
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/android-chrome-192x192.png?sha=4b8cd42018cf12fb353b646c57b35840",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/mstile-310x310.png?sha=3036e09b0b3db8c7a8ba9464e2243640",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/mstile-310x150.png?sha=84bf3e9af766087148136e62beec8a40",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/mstile-144x144.png?sha=dfe3a6a40a6cabdcbc02a622d62ed537",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/mstile-70x70.png?sha=e41bcd7b9221bb38dfa57d03f213c339",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/favicon-16x16.png?sha=602c6d8749048df0fa90e66aaf382dd8",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/mstile-150x150.png?sha=5432d1017ec16e4ebfd2287fca3929a7",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/favicon-32x32.png?sha=3f9fa58b43676d2ea07c9bbe6d67ed65",
             "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/favicon.ico?sha=fdf24af80330b5183d19220c21d9f3fe",
             "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/android-chrome-512x512.png?sha=beb288bc11ba955820abbd4911638401",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/mstile-150x150.png?sha=5432d1017ec16e4ebfd2287fca3929a7",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/android-chrome-192x192.png?sha=4b8cd42018cf12fb353b646c57b35840",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/mstile-70x70.png?sha=e41bcd7b9221bb38dfa57d03f213c339",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/mstile-310x150.png?sha=84bf3e9af766087148136e62beec8a40",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/mstile-310x310.png?sha=3036e09b0b3db8c7a8ba9464e2243640",
             "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/browserconfig.xml?sha=877c532bc5e11b01391e51b4fd9240e8",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/safari-pinned-tab.svg?sha=869c600d2478e70cecd1dc015aa41601",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/favicon-16x16.png?sha=602c6d8749048df0fa90e66aaf382dd8",
             "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/apple-touch-icon.png?sha=eba789cd7705d91c2cf402e576d2cf6c",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/favicon-32x32.png?sha=3f9fa58b43676d2ea07c9bbe6d67ed65",
-            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9"
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/safari-pinned-tab.svg?sha=869c600d2478e70cecd1dc015aa41601",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/site.webmanifest?sha=7535bb0b5cbccbccff041bb117f9cfe9",
+            "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-favicon/mstile-144x144.png?sha=dfe3a6a40a6cabdcbc02a622d62ed537"
           ]
         },
         "sonarr-anime-logo": "https://itsmestro.github.io/css/addons/sonarr/sonarr-anime-logo/sonarr-anime-logo.css?sha=ff446d6d811ed1cdfbf38b87e455b0ed",
@@ -718,28 +718,28 @@
         "login-page": {
           "alien": {
             "css": [
-              "https://itsmestro.github.io/css/addons/unraid/login-page/alien/hallway.css?sha=b5c502f273bbe716a040414c18d8c56b",
-              "https://itsmestro.github.io/css/addons/unraid/login-page/alien/isolation.css?sha=ce599a2668f2ed261038dad7da26f7c3",
-              "https://itsmestro.github.io/css/addons/unraid/login-page/alien/hallway2.css?sha=8e1672eca7f55f10a02eef8218fc6b41",
               "https://itsmestro.github.io/css/addons/unraid/login-page/alien/nightmare.css?sha=d07d969be6f9da5df26d61890386795a",
+              "https://itsmestro.github.io/css/addons/unraid/login-page/alien/custom.css?sha=69998c52f142dba728f66c910b897522",
               "https://itsmestro.github.io/css/addons/unraid/login-page/alien/hallway4.css?sha=cb739f9daa732b08c79c1acce848bbe2",
-              "https://itsmestro.github.io/css/addons/unraid/login-page/alien/isolation_video.css?sha=c9ed6dc1f42a2895157b8e47f147182c",
-              "https://itsmestro.github.io/css/addons/unraid/login-page/alien/scanner.css?sha=e20b2fe2c350ff087937ef0bbd6756a3",
               "https://itsmestro.github.io/css/addons/unraid/login-page/alien/alien-base.css?sha=fc4a6738a5170c4f73f136f276d6ac17",
+              "https://itsmestro.github.io/css/addons/unraid/login-page/alien/isolation_video.css?sha=c9ed6dc1f42a2895157b8e47f147182c",
               "https://itsmestro.github.io/css/addons/unraid/login-page/alien/hallway3.css?sha=60408ab51eca79c0939a3a7898c5d41d",
-              "https://itsmestro.github.io/css/addons/unraid/login-page/alien/custom.css?sha=69998c52f142dba728f66c910b897522"
+              "https://itsmestro.github.io/css/addons/unraid/login-page/alien/isolation.css?sha=ce599a2668f2ed261038dad7da26f7c3",
+              "https://itsmestro.github.io/css/addons/unraid/login-page/alien/hallway.css?sha=b5c502f273bbe716a040414c18d8c56b",
+              "https://itsmestro.github.io/css/addons/unraid/login-page/alien/scanner.css?sha=e20b2fe2c350ff087937ef0bbd6756a3",
+              "https://itsmestro.github.io/css/addons/unraid/login-page/alien/hallway2.css?sha=8e1672eca7f55f10a02eef8218fc6b41"
             ],
             "files": []
           },
           "fallout": {
             "css": [
-              "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/fallout-base.css?sha=21426c9f0f57186e5abab7e51d07919c",
-              "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/terminal.css?sha=6d35e5fda2ffe59ffac6b94c88156474",
-              "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/dirty_terminal2.css?sha=ce97e75d8b0f3a65ab95cefd56ff94af",
+              "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/custom.css?sha=861291eb0b3ae0a7d2caa7a0d1a49719",
               "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/terminal2.css?sha=bf8ea1808fde56272de7f8377745a920",
-              "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/dirty_terminal.css?sha=d4448bf4189e72594690ba4c8239e5c5",
+              "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/terminal.css?sha=6d35e5fda2ffe59ffac6b94c88156474",
+              "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/fallout-base.css?sha=21426c9f0f57186e5abab7e51d07919c",
+              "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/dirty_terminal2.css?sha=ce97e75d8b0f3a65ab95cefd56ff94af",
               "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/fallout_video.css?sha=aff8e8826946298a6961dee8a8fbfaae",
-              "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/custom.css?sha=861291eb0b3ae0a7d2caa7a0d1a49719"
+              "https://itsmestro.github.io/css/addons/unraid/login-page/fallout/dirty_terminal.css?sha=d4448bf4189e72594690ba4c8239e5c5"
             ],
             "files": []
           },
@@ -748,13 +748,13 @@
           ],
           "retro-terminal": {
             "css": [
-              "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/red.css?sha=b2ea498ff13040bc4594ddeb1ef3e445",
-              "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/amber.css?sha=051bbc07b5b26db06074d87a25fe8ddf",
               "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/blue.css?sha=395aed61d19745e19d9f9d1e602e08e8",
-              "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/white.css?sha=d735c2c32bdc72ff306fe83dd20c6375",
-              "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=6280d1ac659ed9285be1af4029922bdf",
               "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/custom.css?sha=5b8031420e620a084427a82a44687240",
-              "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/green.css?sha=02b52541ad43826cbae2de3bf15c6b0c"
+              "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/white.css?sha=d735c2c32bdc72ff306fe83dd20c6375",
+              "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/amber.css?sha=051bbc07b5b26db06074d87a25fe8ddf",
+              "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/green.css?sha=02b52541ad43826cbae2de3bf15c6b0c",
+              "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/red.css?sha=b2ea498ff13040bc4594ddeb1ef3e445",
+              "https://itsmestro.github.io/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=6280d1ac659ed9285be1af4029922bdf"
             ],
             "files": []
           }
